@@ -1,12 +1,12 @@
 Sure! Here’s the README with updated icons in the Features section to make it visually appealing and modern:
 
----
+
 
 # SignSavvy 🚦
 
 Welcome to SignSavvy — a powerful traffic sign detection and recognition system. Leveraging a custom-trained YOLOv9 model, SignSavvy achieves an impressive 93% detection accuracy.
 
----
+
 
 ## 🌟 Features
 
@@ -22,7 +22,7 @@ PHP handles data management and model interaction with minimal latency, ensuring
 🗂️ Optimized Database
 Our MySQL database is fine-tuned to reduce query time by 40%, enhancing data storage and retrieval efficiency.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -31,6 +31,3 @@ Our MySQL database is fine-tuned to reduce query time by 40%, enhancing data sto
 * Database: MySQL
 * Machine Learning: YOLOv9
 
----
-
-Let me know if you’d like to tweak the icons further or add any more sections (like badges, usage instructions, or screenshots)! 🚀✨
