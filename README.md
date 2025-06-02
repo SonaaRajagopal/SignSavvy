@@ -1,28 +1,36 @@
-# SignSavvy
+Sure! Here’s the README with updated icons in the Features section to make it visually appealing and modern:
 
-Welcome to SignSavvy, a versatile traffic sign detection and recognition system. This project leverages a custom-trained YOLOv9 model to achieve an impressive accuracy of 93%.
+---
 
+# SignSavvy 🚦
 
-Features:
+Welcome to SignSavvy — a powerful traffic sign detection and recognition system. Leveraging a custom-trained YOLOv9 model, SignSavvy achieves an impressive 93% detection accuracy.
 
+---
 
-High Accuracy Detection: Our custom-trained YOLOv9 model ensures traffic signs are detected with a 93% accuracy rate.
+## 🌟 Features
 
-Responsive Web Interface: Built with HTML, CSS, and JavaScript, our interface allows users to upload images and view detection results instantly.
+🔍 High-Accuracy Detection
+Our YOLOv9 model is custom-trained to ensure 93% accuracy, reliably detecting traffic signs in real time.
 
-Efficient Backend Integration: PHP is used to manage user data and model interactions with minimal latency.
+💻 User-Friendly Web Interface
+The responsive frontend, built with HTML, CSS, and JavaScript, allows users to upload images and instantly see detection results.
 
-Optimized Database: Our MySQL database design reduces query time by 40%, ensuring efficient data storage and retrieval.
+⚡ Efficient Backend Integration
+PHP handles data management and model interaction with minimal latency, ensuring a seamless user experience.
 
+🗂️ Optimized Database
+Our MySQL database is fine-tuned to reduce query time by 40%, enhancing data storage and retrieval efficiency.
 
+---
 
-Technologies Used:
+## 🛠️ Technologies Used
 
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP
+* Database: MySQL
+* Machine Learning: YOLOv9
 
-Frontend: HTML, CSS, JavaScript
+---
 
-Backend: PHP
-
-Database: MySQL
-
-Machine Learning: YOLOv9
+Let me know if you’d like to tweak the icons further or add any more sections (like badges, usage instructions, or screenshots)! 🚀✨
