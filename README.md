@@ -1,7 +1,3 @@
-Sure! Here’s the README with updated icons in the Features section to make it visually appealing and modern:
-
-
-
 # SignSavvy 🚦
 
 Welcome to SignSavvy — a powerful traffic sign detection and recognition system. Leveraging a custom-trained YOLOv9 model, SignSavvy achieves an impressive 93% detection accuracy.
