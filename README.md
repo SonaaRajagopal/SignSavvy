@@ -3,10 +3,6 @@
 Welcome to SignSavvy, a powerful traffic sign detection and recognition system. Leveraging a custom-trained YOLOv9 model, SignSavvy achieves an impressive 93% detection accuracy.
 
 
-Got it! Here’s the full **Features** section for your README, formatted properly with line breaks so that the **icon+heading** and the **content** each appear on separate lines:
-
----
-
 ## 🌟 Features
 
 🔍 **High-Accuracy Detection**
@@ -33,9 +29,6 @@ SignSavvy is designed with scalability in mind. The modular architecture allows 
 
 User data is securely managed and stored, following best practices to ensure privacy and integrity.
 
----
-
-Let me know if you’d like to format the **Technologies Used** or any other sections too! 🚀✨
 
 ## 🌟 Features
 
