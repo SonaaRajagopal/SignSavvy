@@ -7,13 +7,13 @@
 ![Database](https://img.shields.io/badge/Database-MySQL-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
----
+
 
 ## 🚀 Overview
 
 **SignSavvy** is a powerful, end-to-end **traffic sign detection and recognition system** built on a custom-trained **YOLOv9 model**. Designed to operate with high accuracy and speed, it combines real-time object detection with a responsive web interface and robust backend architecture. With a detection accuracy of **93%**, SignSavvy is well-suited for both research and deployment in real-world intelligent traffic systems.
 
----
+
 
 ## 🌟 Features
 
@@ -44,18 +44,18 @@
 ### 🔒 Secure Data Handling
 - Implements best practices in **user data privacy** and **secure file handling**
 
----
+
 
 ## 🛠️ Tech Stack
 
 | Layer      | Technologies Used                  |
-|------------|------------------------------------|
+|||
 | Frontend   | HTML, CSS, JavaScript              |
 | Backend    | PHP                                |
 | Database   | MySQL                              |
 | ML Model   | YOLOv9 (You Only Look Once v9)     |
 
----
+
 
 ## 📦 How It Works
 
@@ -65,7 +65,7 @@
 4. Detected signs are highlighted and results shown in the browser
 5. Data is optionally logged in the MySQL database
 
----
+
 
 ## 🧠 Potential Use Cases
 
@@ -75,20 +75,19 @@
 - Road safety analysis
 - Intelligent transport infrastructure
 
----
+
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
----
+
 
 ## 🙌 Contributors
 
-- 🚀 [Your Name] – ML & Backend Integration  
-- 🎨 [Frontend Dev] – UI/UX and Web Design  
-- 🛠️ [Data Engineer] – Dataset preparation and database optimization
+- 🚀 [Sonaa Rajagopal] – ML & Backend Pipeline Integration  
+- 🎨 [Vishvadharshini] – UI/UX and Web Design  
+- 🛠️ [Muralikrishnan Mani] – ML Model Training and Database Optimization
 
----
 
-Let me know if you'd like deployment instructions, model training details, or GIF demos embedded into the README.
+
