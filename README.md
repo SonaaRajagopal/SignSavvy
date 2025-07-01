@@ -50,12 +50,11 @@
 
 | 🧩 Layer     | 🚀 Technologies Used                                                                 |
 |-------------|----------------------------------------------------------------------------------------|
-| 🎨 Frontend | [![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-              [![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-              [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| 🖥️ Backend   | [![PHP](https://img.shields.io/badge/PHP-7.4-purple?logo=php)](https://www.php.net/) |
-| 🗃️ Database | [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/) |
-| 🤖 ML Model | [![YOLOv9](https://img.shields.io/badge/YOLO-v9-red)](https://github.com/WongKinYiu/yolov9) |
+| 🎨 Frontend | [![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)<br> [![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)<br> [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| 🖥️ Backend   | [![PHP](https://img.shields.io/badge/PHP-7.4-purple?logo=php)](https://www.php.net/)                                       |
+| 🗃️ Database | [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)                                |
+| 🤖 ML Model | [![YOLOv9](https://img.shields.io/badge/YOLO-v9-red)](https://github.com/WongKinYiu/yolov9)                                |
+
 
 
 
@@ -86,11 +85,13 @@ This project is licensed under the **MIT License**.
 
 
 
+
 ## 🙌 Contributors
 
-- 🚀 [(https://github.com/SonaaRajagopal)] – ML & Backend Pipeline Integration  
-- 🎨 [https://github.com/Vishvadharshini06] – UI/UX and Web Design  
-- 🛠️ [https://github.com/muralikrishnan2022] – ML Model Training and Database Optimization
+- 🛠️ [Muralikrishnan Mani](https://github.com/muralikrishnan2022) – ML Model Training and Database Optimization
+- 🚀 [Sonaa Rajagopal](https://github.com/SonaaRajagopal) – ML & Backend Pipeline Integration  
+- 🎨 [Vishvadharshini](https://github.com/Vishvadharshini06) – UI/UX and Web Design  
+
 
 
 
